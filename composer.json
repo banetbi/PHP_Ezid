@@ -1,0 +1,17 @@
+{
+  "name": "banetbi/ezid",
+  "description": "Simple PHP Wrapper for the EZID REST api provided by California Digital Libraries",
+  "minimum-stability": "dev",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Justin Dalton",
+      "email": "jcdalton@wm.edu"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "banetbi\\ezid\\": ""
+    }
+  }
+}
