@@ -1,7 +1,7 @@
 {
   "name": "banetbi/ezid",
   "description": "Simple PHP Wrapper for the EZID REST api provided by California Digital Libraries",
-  "minimum-stability": "dev",
+  "minimum-stability": "stable",
   "license": "MIT",
   "authors": [
     {
