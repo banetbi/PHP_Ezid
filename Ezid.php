@@ -5,14 +5,14 @@
  * Time: 4:25 PM
  */
 
-namespace wmlib\etd;
+namespace banetbi\ezid;
 use \InvalidArgumentException;
 use \LogicException;
 
 
 /**
  * Class Ezid
- * @package wmlib\etd
+ * @package banetbi\ezid
  *
  * Wrapper class to assist in EZID DOI and ArcID management
  */
